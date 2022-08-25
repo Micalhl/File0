@@ -1,0 +1,212 @@
+[00:42:19] [ServerMain/INFO]: Building unoptimized datafixer
+[00:42:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:42:23] [ServerMain/INFO]: Loaded 7 recipes
+[00:42:25] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[00:42:25] [Server thread/WARN]: ****************************
+[00:42:25] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[00:42:25] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[00:42:25] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[00:42:25] [Server thread/WARN]: ****************************
+[00:42:25] [Server thread/INFO]: Loading properties
+[00:42:25] [Server thread/INFO]: This server is running Purpur version git-Purpur-1736 (MC: 1.19.1) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: f1c4bad on HEAD)
+[00:42:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:42:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:42:27] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[00:42:27] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[00:42:27] [Server thread/WARN]: [Pufferfish] If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[00:42:27] [Server thread/WARN]: [Pufferfish] Debug: Java: 17.0.4.1, test run: true
+[00:42:27] [Server thread/INFO]: Default game type: SURVIVAL
+[00:42:27] [Server thread/INFO]: Generating keypair
+[00:42:27] [Server thread/INFO]: Starting Minecraft server on *:1116
+[00:42:27] [Server thread/INFO]: Using default channel type
+[00:42:27] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[00:42:27] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[00:42:30] [Server thread/INFO]: [spark] Loading spark v1.9.33
+[00:42:30] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-CMI
+[00:42:30] [Server thread/INFO]: [CMILib] Loading CMILib v1.2.3.3
+[00:42:30] [Server thread/INFO]: [CMI] Loading CMI v9.2.3.6
+[00:42:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:42:30] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-CMI
+[00:42:30] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:42:30] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-CMI
+[00:42:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:42:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:42:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:42:30] [Server thread/WARN]: You will not be offered any support as long as the server allows offline-mode players to join.
+[00:42:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:42:30] [Server thread/INFO]: Preparing level "world"
+[00:42:32] [Server thread/INFO]: [spark] Enabling spark v1.9.33
+[00:42:32] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[00:42:32] [Server thread/INFO]: [CMILib] Enabling CMILib v1.2.3.3
+[00:42:34] [Server thread/INFO]: Server version: v1_19_R1 - 1.19.0 - paper
+[00:42:35] [Server thread/INFO]: CMI hooked.
+[00:42:35] [Server thread/INFO]: Updated (EN) language file. Took 232ms
+[00:42:35] [Server thread/INFO]: [CMI] Enabling CMI v9.2.3.6
+[00:42:36] [Server thread/INFO]: ©³©¥©¥©¥©· ©³©¥©·©³©¥©· ©³©¥©¥©·
+[00:42:36] [Server thread/INFO]: ©§©³©¥©·©§ ©§ ©»©¿ ©§ ©»©Ï©Ç©¿
+[00:42:36] [Server thread/INFO]: ©§©§ ©»©¿ ©§©³©·©³©·©§  ©§©§ 
+[00:42:36] [Server thread/INFO]: ©§©§ ©³©· ©§©§©§©§©§©§  ©§©§ 
+[00:42:36] [Server thread/INFO]: ©§©»©¥©¿©§ ©§©§©§©§©§©§ ©³©Ï©Ç©·
+[00:42:36] [Server thread/INFO]: ©»©¥©¥©¥©¿ ©»©¿©»©¿©»©¿ ©»©¥©¥©¿
+[00:42:36] [Server thread/INFO]: _______________________________________________________
+[00:42:36] [Server thread/INFO]:   Integrating PaperSpigot async methods
+[00:42:36] [Server thread/INFO]:   56 Enabled and 0 Disabled modules
+[00:42:36] [Server thread/INFO]:   Permission plugin: Vault
+[00:42:36] [Server thread/INFO]:   Initialized Cipher256 AES
+[00:42:37] [Server thread/INFO]:   Loaded (60) regular alias into memory. Took 116ms
+[00:42:37] [Server thread/INFO]:   Loaded (1) custom text's into memory. Took 12ms
+[00:42:37] [Server thread/INFO]:   3.36.0 data base type detected
+[00:42:38] [Server thread/INFO]:   Started SqLite data base. Took 733ms
+[00:42:38] [Server thread/INFO]: [CMI] Vault was found but economy engine is missing. Use one from list provided in https://dev.bukkit.org/bukkit-plugins/vault/
+[00:42:38] [Server thread/INFO]: [CMI] Alternatively you can enable CMI economy in config.yml file
+[00:42:38] [Server thread/INFO]:   Vault was found but not economy plugin, you will have limited economy support
+[00:42:38] [Server thread/INFO]:   Loaded (5) warning categories into memory. Took 1ms
+[00:42:38] [Server thread/INFO]:   Loaded (3) warning commands into memory. Took 1ms
+[00:42:38] [Server thread/INFO]:   Loaded (142) custom mob heads into memory. Took 60ms
+[00:42:39] [Server thread/INFO]:   Loaded (0) cooldowns into memory. Took 81ms
+[00:42:39] [Server thread/INFO]:   Initializing BungeeCord
+[00:42:40] [Server thread/INFO]:   Loaded (5) kits into memory. Took 911ms
+[00:42:40] [Server thread/INFO]:   Loaded (7) ranks into memory. Took 85ms
+[00:42:40] [Server thread/INFO]:   Loaded (8) playtime rewards into memory. Took 41ms
+[00:42:40] [Server thread/INFO]:   Loaded (1) player data into memory. Took 12ms
+[00:42:40] [Server thread/INFO]:   Loaded (0) playtime records into memory. Took 1ms
+[00:42:40] [Server thread/INFO]:   Loaded (0) playtime reward records into memory. Took 0ms
+[00:42:40] [Server thread/INFO]:   Loaded (0) custom alias into memory. Took 13ms
+[00:42:40] [Server thread/INFO]:   Registered events. Took 162ms
+[00:42:40] [Server thread/INFO]:   Loaded (0) event action commands into memory. Took 13ms
+[00:42:40] [Server thread/INFO]:   Updated (EN) language file. Took 222ms
+[00:42:40] [Server thread/WARN]: [CMILib] Loaded class com.Zrips.CMI.Containers.Snd from CMI v9.2.3.6 which is not a depend or softdepend of this plugin.
+[00:42:40] [Server thread/INFO]:   Loaded (245) worth values into memory. Took 130ms
+[00:42:40] [Server thread/INFO]:   Starting world timer.
+[00:42:40] [Server thread/INFO]:   Initializing world manager.
+[00:42:40] [Server thread/INFO]:   Loaded (4) schedules into memory. Took 27ms
+[00:42:40] [Server thread/INFO]:   Loaded GeoIP
+[00:42:40] [Server thread/INFO]:   Loaded (0) skin cache entries into memory. Took 1ms
+[00:42:41] [Server thread/INFO]:   Loaded (0) ArmorStand templates into memory. Took 0ms
+[00:42:41] [Server thread/INFO]:   Version 9.2.3.6 has been enabled
+[00:42:41] [Server thread/INFO]: ???????????????????????????????????????????????????????
+[00:42:41] [Server thread/INFO]: Starting remote control listener
+[00:42:41] [Server thread/INFO]: Thread RCON Listener started
+[00:42:41] [Server thread/INFO]: RCON running on 0.0.0.0:1114
+[00:42:41] [Server thread/INFO]: Running delayed init tasks
+[00:42:41] [Craft Scheduler Thread - 30 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:42:41] [Server thread/INFO]: Done (15.245s)! For help, type "help"
+[00:42:41] [Craft Scheduler Thread - 30 - Vault/INFO]: [Vault] No new version available
+[00:42:41] [Server thread/INFO]: Downloaded Locale_CN.yml file
+[00:42:41] [Server thread/INFO]: Downloaded Locale_NO.yml file
+[00:42:42] [Server thread/INFO]: [CMI] Downloaded Locale_CN.yml file
+[00:42:42] [Server thread/INFO]: [CMI] Downloaded Locale_SL.yml file
+[00:42:42] [Server thread/INFO]: [CMI] Downloaded Locale_DE.yml file
+[00:42:42] [Server thread/INFO]: Downloaded Locale_ES.yml file
+[00:42:42] [Server thread/INFO]: [CMI] Downloaded Locale_ES.yml file
+[00:42:42] [Server thread/INFO]: [CMI] Downloaded Locale_PL.yml file
+[00:42:42] [Server thread/INFO]: Downloaded Locale_SK.yml file
+[00:42:42] [Server thread/INFO]: [CMI] Downloaded Locale_ZH.yml file
+[00:42:43] [Server thread/INFO]: [CMI] Downloaded Locale_FR.yml file
+[00:42:43] [Server thread/INFO]: [CMI] Downloaded Locale_NO.yml file
+[00:43:21] [Craft Scheduler Thread - 13 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_TR.yml file into plugins\CMILib\Translations\ folder 
+[00:43:21] [Craft Scheduler Thread - 19 - CMI/INFO]: [CMI] Failed to download https://raw.githubusercontent.com/Zrips/CMI/master/Translations/Locale_IT.yml file into plugins\CMI\Translations\ folder 
+[00:43:21] [Craft Scheduler Thread - 6 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_RU.yml file into plugins\CMILib\Translations\ folder 
+[00:43:21] [Craft Scheduler Thread - 22 - CMI/INFO]: [CMI] Failed to download https://raw.githubusercontent.com/Zrips/CMI/master/Translations/Locale_SK.yml file into plugins\CMI\Translations\ folder 
+[00:43:21] [Craft Scheduler Thread - 28 - CMI/INFO]: [CMI] Failed to download https://raw.githubusercontent.com/Zrips/CMI/master/Translations/Locale_TR.yml file into plugins\CMI\Translations\ folder 
+[00:43:21] [Craft Scheduler Thread - 4 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_IT.yml file into plugins\CMILib\Translations\ folder 
+[00:43:21] [Craft Scheduler Thread - 13 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:43:21] [Craft Scheduler Thread - 6 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:43:21] [Craft Scheduler Thread - 19 - CMI/INFO]: [CMI] You can do it manually or try again later or simply ignore it
+[00:43:21] [Craft Scheduler Thread - 4 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:43:21] [Craft Scheduler Thread - 28 - CMI/INFO]: [CMI] You can do it manually or try again later or simply ignore it
+[00:43:21] [Craft Scheduler Thread - 22 - CMI/INFO]: [CMI] You can do it manually or try again later or simply ignore it
+[00:43:21] [Craft Scheduler Thread - 9 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_FR.yml file into plugins\CMILib\Translations\ folder 
+[00:43:21] [Craft Scheduler Thread - 9 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:43:22] [Craft Scheduler Thread - 2 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_DE.yml file into plugins\CMILib\Translations\ folder 
+[00:43:22] [Craft Scheduler Thread - 2 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:43:22] [Craft Scheduler Thread - 8 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_SL.yml file into plugins\CMILib\Translations\ folder 
+[00:43:22] [Craft Scheduler Thread - 8 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:43:22] [User Authenticator #1/INFO]: UUID of player Y_Mical is e114e52d-491e-392f-b924-b6c9bae0cc83
+[00:43:27] [Server thread/INFO]: Y_Mical joined the game
+[00:43:27] [Server thread/INFO]: Y_Mical[/111.32.97.122:4895] logged in with entity id 2 at ([world]26.666369805014995, 64.0, 19.541080158948052)
+[00:43:34] [Server thread/INFO]: Y_Mical issued server command: /home
+[00:43:34] [Server thread/WARN]: java.lang.NoSuchMethodException: net.minecraft.network.protocol.game.ClientboundSystemChatPacket.<init>(net.minecraft.network.chat.IChatBaseComponent,int)
+[00:43:34] [Server thread/WARN]: 	at java.base/java.lang.Class.getConstructor0(Class.java:3585)
+[00:43:34] [Server thread/WARN]: 	at java.base/java.lang.Class.getConstructor(Class.java:2271)
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.RawMessages.RawMessageManager.<clinit>(RawMessageManager.java:114)
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.RawMessages.RawMessageListener.onShadowCommand(RawMessageListener.java:28)
+[00:43:34] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor17.execute(Unknown Source)
+[00:43:34] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75)
+[00:43:34] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76)
+[00:43:34] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[00:43:34] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:678)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2328)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2314)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+[00:43:34] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1386)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1363)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1356)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1334)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1222)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:310)
+[00:43:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[00:43:34] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Constructor.newInstance(Object[])" because "net.Zrips.CMILib.RawMessages.RawMessageManager.constructor" is null
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.RawMessages.RawMessageManager.send(RawMessageManager.java:208)
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.RawMessages.RawMessage.show(RawMessage.java:625)
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.RawMessages.RawMessage.show(RawMessage.java:657)
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.RawMessages.RawMessage.show(RawMessage.java:651)
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.RawMessages.RawMessage.show(RawMessage.java:708)
+[00:43:34] [Server thread/WARN]: 	at CMILib1.2.3.3 (2).jar//net.Zrips.CMILib.Messages.CMIMultiMessage.show(CMIMultiMessage.java:238)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.CMI.sendMessage(CMI.java:2161)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.CMI.sendMessage(CMI.java:2146)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.CMI.sendMessage(CMI.java:2142)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.CMI.info(CMI.java:2076)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.commands.list.homes.perform(homes.java:85)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.commands.CommandsHandler.performCMICommand(CommandsHandler.java:103)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.commands.CommandsHandler.performCMICommand(CommandsHandler.java:96)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.commands.list.home.perform(home.java:80)
+[00:43:34] [Server thread/WARN]: 	at CMI9.2.3.6 (1).jar//com.Zrips.CMI.commands.CommandsHandler.onCommand(CommandsHandler.java:398)
+[00:43:34] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[00:43:34] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:168)
+[00:43:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:940)
+[00:43:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:53)
+[00:43:34] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.performCommand(CommandDispatcher.java:312)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:296)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.b(PlayerConnection.java:2349)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$20(PlayerConnection.java:2314)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.b(IAsyncTaskHandler.java:59)
+[00:43:34] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1386)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:185)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1363)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1356)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1334)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1222)
+[00:43:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:310)
+[00:43:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[00:43:34] [Server thread/INFO]: Failed to show json message with packets, using command approach
+[00:43:41] [Server thread/INFO]: Y_Mical lost connection: Disconnected
+[00:43:41] [Server thread/INFO]: Y_Mical left the game
+[00:45:24] [Craft Scheduler Thread - 29 - CMI/INFO]: [CMI] Failed to download https://raw.githubusercontent.com/Zrips/CMI/master/Translations/Locale_CZ.yml file into plugins\CMI\Translations\ folder 
+[00:45:24] [Craft Scheduler Thread - 29 - CMI/INFO]: [CMI] You can do it manually or try again later or simply ignore it
+[00:45:24] [Craft Scheduler Thread - 5 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_LT.yml file into plugins\CMILib\Translations\ folder 
+[00:45:24] [Craft Scheduler Thread - 5 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:45:24] [Craft Scheduler Thread - 14 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_CZ.yml file into plugins\CMILib\Translations\ folder 
+[00:45:24] [Craft Scheduler Thread - 14 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:45:24] [Craft Scheduler Thread - 20 - CMI/INFO]: [CMI] Failed to download https://raw.githubusercontent.com/Zrips/CMI/master/Translations/Locale_LT.yml file into plugins\CMI\Translations\ folder 
+[00:45:24] [Craft Scheduler Thread - 20 - CMI/INFO]: [CMI] You can do it manually or try again later or simply ignore it
+[00:45:24] [Craft Scheduler Thread - 10 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_PL.yml file into plugins\CMILib\Translations\ folder 
+[00:45:24] [Craft Scheduler Thread - 10 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:45:25] [Craft Scheduler Thread - 12 - CMILib/INFO]: Failed to download https://raw.githubusercontent.com/Zrips/CMILib/master/Translations/Locale_ZH.yml file into plugins\CMILib\Translations\ folder 
+[00:45:25] [Craft Scheduler Thread - 12 - CMILib/INFO]: You can do it manually or try again later or simply ignore it
+[00:45:25] [Craft Scheduler Thread - 21 - CMI/INFO]: [CMI] Failed to download https://raw.githubusercontent.com/Zrips/CMI/master/Translations/Locale_RU.yml file into plugins\CMI\Translations\ folder 
+[00:45:25] [Craft Scheduler Thread - 21 - CMI/INFO]: [CMI] You can do it manually or try again later or simply ignore it
